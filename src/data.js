@@ -1,4 +1,10 @@
-const movies = [
+// console.log('este es mi archivo movies');
+
+ export const pi = 3.141596;
+
+
+ export let movies = [
+
   {
     title: 'The Shawshank Redemption',
     year: 1994,
